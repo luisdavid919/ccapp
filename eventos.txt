@@ -1,0 +1,5 @@
+29, 30 y 31|Octubre|eventRow01|01|Congreso Chazaq|Todo el d&iacute;a
+26, 27 y 28|Junio|eventRow02|02|Vida Victoriosa|Todo el d&iacute;a
+1, 2 y 3|Febrero|eventRow03|03|Congreso Nacional de L&iacute;deres|Todo el d&iacute;a
+14|Enero|eventRow04|04|Oraci&oacute;n por las Naciones|8:00 am - 4:00 pm
+12, 13 y 14|Febrero|eventRow05|05|Retiro para Matrimonios / Contra Viento y Marea|Todo el d&iacute;a

@@ -1,0 +1,63 @@
+.box-icon-smaller {
+
+	height: 60px;
+
+	width: 100px;
+
+	-moz-border-radius: 35px;
+
+	padding: 2px 10px;
+
+	background-color: #1abc9c;
+
+	color: #fff;
+
+	text-align: center;
+
+	-webkit-transition: all 0.3s;
+
+	-moz-transition: all 0.3s;
+
+	transition: all 0.3s;
+
+	margin-right: 15px;
+
+}
+
+.box-icon-smaller:hover {
+
+
+	
+	background-color: #f0f1ec;
+
+	color: #034b81;	
+
+}
+
+.box-icon-smaller {margin: 0 auto;}
+
+.event-list {
+	font-size:18px;
+	font-weight: 600;
+}
+
+.event-list:hover {
+	color:#1abc9c;
+	cursor:pointer;
+}
+
+.event-time {
+	font-style: italic;
+}
+
+.event-row {
+	margin-left:-15px;
+	margin-right:-15px;
+	padding-bottom:16px;
+}
+
+.event-title {
+	font-size:28px;
+	font-weight: 600;
+	margin-bottom:20px;
+}
